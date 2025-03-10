@@ -27,5 +27,6 @@ Feel free to reach out to discuss projects or share advice!
 
 Email - avadik319@gmail.com
 Telegram - @gTakeshi1703
-Twitter/X (добавь ссылку, если есть)
+
+
 Спасибо за внимание! / Thanks for stopping by! 🚀
