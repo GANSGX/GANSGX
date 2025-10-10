@@ -1,47 +1,79 @@
-👋 Привет! / Hello!
+# 👋 Привет! / Hello!
 
-🇷🇺 О себе / About Me
+## 🇷🇺 О себе / About Me
 
-Я начинающий фронтенд-разработчик, который постепенно осваивает основы веб-разработки. Моя цель — стать профессиональным фронтенд-разработчиком. Спасибо, что заглянули в мой репозиторий! Со временем он будет пополняться новыми, более сложными проектами, чтобы вы могли наблюдать за моим прогрессом в разработке.
+Я начинающий фронтенд-разработчик, который уверенно владеет основами **HTML**, **CSS** и **SASS**, а также активно изучает **JavaScript** и другие технологии веб-разработки.
+Моя цель — стать **профессиональным фронтенд-разработчиком**, способным создавать современные и надёжные веб-приложения.
 
-I'm a beginner front-end developer, gradually learning the basics of web development. My goal is to become a professional front-end developer. Thank you for visiting my repository! Over time, it will be updated with new and more complex projects so you can track my growth in development.
+I'm a beginner front-end developer with a solid understanding of **HTML**, **CSS**, and **SASS**, currently learning **JavaScript** and expanding my web development skills.
+My goal is to become a **professional front-end developer** capable of building modern and reliable web applications.
 
-🛠 Технологии / Tech Stack
+---
 
-HTML — структура и основа веб-страниц / structure and foundation of web pages
+## 🛠 Технологии / Tech Stack
 
-CSS — стилизация и красивый дизайн / styling and beautiful design
+### ⚡ Основные знания / Core Skills
 
-JavaScript — интерактивность и логика / interactivity and logic
+* **HTML5** — семантика и структура / semantics and structure
+* **CSS3 / SASS (SCSS)** — адаптивная стилизация и дизайн / responsive styling and design
+* **JavaScript (ES6+)** — базовая логика и интерактивность / basic logic and interactivity
+* **Git & GitHub** — контроль версий и управление проектами / version control and project management
 
-VS Code — мой любимый редактор кода / my favorite code editor
+---
 
-Font Awesome — иконки для веб-дизайна / icons for web design
+### 🧩 С чем сталкивался / What I’ve Worked With
 
-SASS/SCSS — мощные стили с переменными и миксинами / powerful styles with variables and mixins
+> Эти технологии я использовал в проектах или изучал при помощи документации, Google и ИИ. / I’ve experimented with or briefly used these technologies in my projects, often with help from documentation, Google, and AI tools.
 
-Git & GitHub — контроль версий и работа с репозиториями / version control and repository management
+* ⚙️ **React**, **Vite** — создание фронтенд-приложений / front-end app setup
+* 🧠 **TypeScript** — базовая типизация и структура кода / basic typing and structure
+* 🌐 **Express.js**, **Node.js** — серверная логика и API / server logic and APIs
+* 🗃️ **MongoDB**, **MongoDB Atlas**, **PostgreSQL** — работа с базами данных / working with databases
+* 🐳 **Docker** — контейнеризация и настройка окружений / containerization and environment setup
+* 💾 **Кэширование** — базовые принципы LRU и оптимизация / basic caching and optimization
+* 🔗 **REST API**, **WebSocket** — взаимодействие между сервисами / service communication
+* 🔒 **Криптография** — базовое понимание хеширования и шифрования / basic understanding of hashing and encryption
+* 🧭 **Bash** — базовые команды CLI и автоматизация / basic CLI and scripting
+* 🧰 **Figma** — дизайн и работа с макетами / UI/UX design tool
+* 📡 **NATS Streaming** — обмен сообщениями между сервисами / message broker usage
 
-Smooth Trigger — плавные анимации / smooth animations
+---
 
-Scroll Trigger — эффекты, зависящие от прокрутки / scroll-dependent effects
+## 📚 Сейчас изучаю / Currently Learning
 
-Figma — инструмент для проектирования UI/UX / tool for UI/UX design
+* Углублённо **JavaScript** (DOM, async, fetch, ES-модули)
+* Основы **React** и работа с компонентами
+* Практика **TypeScript** и структурирование проектов
+* Понимание **Express.js** и REST API
 
-Gulp — автоматизация рутинных задач / automation of routine tasks
+I'm currently learning:
 
-🌟 Что я делаю / What I’m Working On
+* Advanced **JavaScript** (DOM, async, fetch, ES modules)
+* **React** basics and component-based architecture
+* Practical **TypeScript** usage
+* Understanding **Express.js** and REST API design
 
-✅ Изучаю основы фронтенд-разработки и улучшаю свои навыки ✅ Learning front-end basics and improving my skills
-✅ Создаю проекты, чтобы применять знания на практике ✅ Creating projects to apply my knowledge in practice
-✅ Постепенно усложняю задачи, чтобы расти как разработчик ✅ Gradually increasing task complexity to grow as a developer
-✅ Следите за обновлениями, чтобы увидеть мой прогресс! ✅ Keep an eye on updates to see my progress!
+---
 
+## 🌟 Цели / Goals
 
-📬 Связаться со мной / Contact Me
+* Развиваться в области фронтенда
+* Научиться писать чистый, читаемый код
+* Создавать полноценные веб-приложения
+* Постепенно переходить к фуллстек-разработке
 
-📧 Email: avadik319@gmail.com💬 Telegram: @gTakeshi1703
+Grow as a front-end developer, write clean and readable code, build complete web applications, and gradually move toward full-stack development.
 
-Если хотите обсудить проекты или дать совет — пишите!Feel free to reach out to discuss projects or share advice!
+---
 
-🚀 Спасибо за внимание! / Thanks for stopping by!
+## 📬 Связаться со мной / Contact Me
+
+📧 **Email:** [avadik319@gmail.com](mailto:avadik319@gmail.com)
+💬 **Telegram:** [@gTakeshi1703](https://t.me/gTakeshi1703)
+
+Если хотите обсудить проекты, дать совет или просто пообщаться — пишите!
+Feel free to reach out to discuss projects, share advice, or just chat!
+
+---
+
+🚀 **Спасибо за внимание! / Thanks for stopping by!**
