@@ -3,17 +3,16 @@
 <img src="./banner_upscayl_5x_upscayl-standard-4x_upscayl_4x_upscayl-standard-4x.png" alt="GansGX Banner" width="100%">
 
 <a href="https://github.com/GANSGX">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+%26+Fullstack+Enthusiast;Building+scalable+web+applications;Writing+clean+and+aesthetic+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Cybersecurity+Enthusiast;Passionate+about+IT+%26+Hacking;Building+secure+applications" alt="Typing SVG" />
 </a>
 
 <br>
 
 <p align="center">
-  <b>Привет! Я Вадим 👋 — Frontend-разработчик с глубоким интересом к Fullstack-инженерии.</b><br><br>
-  Я создаю современные, высоконагруженные и интерактивные веб-приложения с упором на эстетику и производительность.<br> 
-  Моя главная страсть — архитектура чистого кода, разработка масштабируемых UI-компонентов и проектирование надежных API.<br>
-  Я не просто пишу код, я обожаю решать сложные инженерные задачи: от оптимизации рендеринга в React до правильной настройки контейнеров.<br>
-  Постоянно нахожусь в процессе изучения новых технологий, чтобы быть на острие индустрии.
+  <b>Привет! Я Вадим 👋 — Frontend-разработчик, который всем сердцем горит миром IT.</b><br><br>
+  Я создаю современные веб-интерфейсы, используя классический фронтенд и Fullstack-технологии.<br> 
+  Но программирование для меня — это больше, чем просто написание кода. Я глубоко увлекаюсь <b>кибербезопасностью</b>, <br>компьютерными сетями и хакингом. Мне нравится понимать, как системы устроены на самом низком уровне, <br>искать уязвимости и изучать, как выстраивать архитектурно безопасные приложения.<br>
+  Я постоянно экспериментирую, ломаю, чиню и изучаю новое, потому что технологии — это моя главная страсть.
 </p>
 
 <p align="center">
@@ -30,10 +29,10 @@
 
 ---
 
-### ⚡ Мой Инженерный Стек
+### ⚡ Технологии и Интересы
 
 <p align="center">
-  <strong>💻 Frontend & UI Architecture</strong><br>
+  <strong>🖥️ Frontend Development</strong><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -44,40 +43,37 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>⚙️ Backend, Databases & APIs</strong><br>
+  <strong>⚙️ Backend & Fullstack</strong><br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/REST_API-005C84?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-FFD700?style=for-the-badge&logo=lets-encrypt&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>🛠 DevOps, Architecture & Tools</strong><br>
+  <strong>🔒 Cybersecurity & IT Infrastructure</strong><br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Cryptography-FFD700?style=for-the-badge&logo=lets-encrypt&logoColor=black" />
+  <img src="https://img.shields.io/badge/InfoSec-FF0000?style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Статистика активности и Респекта
+### 📊 Статистика активности на GitHub
 
 <table align="center" style="border: none;">
   <tr>
@@ -93,12 +89,12 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANSGX&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
     <td align="center" width="50%" style="border: none;">
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=false" alt="Jokes Card" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GANSGX&repo=GANSGX&theme=tokyonight" alt="Pinned Repo" />
     </td>
   </tr>
 </table>
 
 <br>
-<i>Строю будущее интернета по одной строчке кода за раз! 💻✨</i>
+<i>Изучаю, компилирую и иногда немного ломаю (чтобы починить) 💻🔐</i>
 
 </div>
