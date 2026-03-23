@@ -3,16 +3,16 @@
 <img src="./banner_upscayl_5x_upscayl-standard-4x_upscayl_4x_upscayl-standard-4x.png" alt="GansGX Banner" width="100%">
 
 <a href="https://github.com/GANSGX">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Cybersecurity+Enthusiast;Passionate+about+IT+%26+Hacking;Building+secure+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Fullstack+Enthusiast;Exploring+Networks+%26+Security;Building+reliable+architecture" alt="Typing SVG" />
 </a>
 
 <br>
 
 <p align="center">
-  <b>Привет! Я Вадим 👋 — Frontend-разработчик, который всем сердцем горит миром IT.</b><br><br>
-  Я создаю современные веб-интерфейсы, используя классический фронтенд и Fullstack-технологии.<br> 
-  Но программирование для меня — это больше, чем просто написание кода. Я глубоко увлекаюсь <b>кибербезопасностью</b>, <br>компьютерными сетями и хакингом. Мне нравится понимать, как системы устроены на самом низком уровне, <br>искать уязвимости и изучать, как выстраивать архитектурно безопасные приложения.<br>
-  Я постоянно экспериментирую, ломаю, чиню и изучаю новое, потому что технологии — это моя главная страсть.
+  <b>Привет! Я Вадим 👋 — Frontend-разработчик с мышлением инженера.</b><br><br>
+  Я специализируюсь на создании современных веб-интерфейсов, но мои интересы выходят далеко за рамки браузера.<br> 
+  Меня невероятно драйвит само устройство IT-мира: от архитектуры сложных веб-приложений до <br>компьютерных сетей и информационной безопасности. Мне нравится докапываться до сути технологий,<br>разбираться в уязвимостях систем и понимать, как всё работает «под капотом».<br>
+  Для меня код — это не просто инструмент, а способ исследования и создания по-настоящему надежных проектов.
 </p>
 
 <p align="center">
