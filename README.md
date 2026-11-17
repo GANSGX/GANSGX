@@ -7,7 +7,15 @@
 
 <img src="https://raw.githubusercontent.com/GANSGX/GANSGX/main/assets/fullstack-typing.svg" alt="Vadim Anokhin · Fullstack Developer">
 
----
+<p align="center"><strong>Привет! Я Вадим 👋 — fullstack-разработчик с мышлением инженера.</strong></p>
+
+<p align="center">
+  Разрабатываю веб-приложения целиком. Собираю интерфейсы на React и Next.js, проектирую API на Node.js и NestJS, работаю с PostgreSQL и Redis.
+</p>
+
+<p align="center">
+  Мне нравится докапываться до сути технологий и понимать, как всё работает «под капотом». Помимо веб-разработки, интересуюсь компьютерными сетями и информационной безопасностью.
+</p>
 
 ## ⚡ Инженерный стек
 
@@ -43,8 +51,6 @@
   </picture>
 </p>
 
----
-
 ## 📌 Избранные проекты
 
 <p align="center">
@@ -53,8 +59,6 @@
   <a href="https://github.com/GANSGX/liquid-glass-css"><img src="https://img.shields.io/github/stars/GANSGX/liquid-glass-css?style=flat-square&amp;label=Liquid%20Glass%20CSS&amp;color=246874&amp;logo=github" alt="Liquid Glass CSS"></a>
   <a href="https://github.com/GANSGX/cryptox"><img src="https://img.shields.io/github/stars/GANSGX/cryptox?style=flat-square&amp;label=CryptoX&amp;color=8057B0&amp;logo=github" alt="CryptoX"></a>
 </p>
-
----
 
 ## 📊 Активность на GitHub
 
