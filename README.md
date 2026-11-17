@@ -51,15 +51,6 @@
   </picture>
 </p>
 
-## 📌 Избранные проекты
-
-<p align="center">
-  <a href="https://github.com/GANSGX/personal-learning-platform"><img src="https://img.shields.io/github/stars/GANSGX/personal-learning-platform?style=flat-square&amp;label=Personal%20Learning%20Platform&amp;color=4169A3&amp;logo=github" alt="Personal Learning Platform"></a>
-  <a href="https://github.com/GANSGX/telegram-green-api-chat"><img src="https://img.shields.io/github/stars/GANSGX/telegram-green-api-chat?style=flat-square&amp;label=Telegram%20Chat&amp;color=237DA2&amp;logo=github" alt="Telegram Chat"></a>
-  <a href="https://github.com/GANSGX/liquid-glass-css"><img src="https://img.shields.io/github/stars/GANSGX/liquid-glass-css?style=flat-square&amp;label=Liquid%20Glass%20CSS&amp;color=246874&amp;logo=github" alt="Liquid Glass CSS"></a>
-  <a href="https://github.com/GANSGX/cryptox"><img src="https://img.shields.io/github/stars/GANSGX/cryptox?style=flat-square&amp;label=CryptoX&amp;color=8057B0&amp;logo=github" alt="CryptoX"></a>
-</p>
-
 ## 📊 Активность на GitHub
 
 <p align="center">
