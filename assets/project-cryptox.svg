@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="146" viewBox="0 0 460 146">
+    <style>
+      .surface{fill:#182237;stroke:#2c374b}.title{fill:#dbe4ff}.copy{fill:#c0cce0}.tech{fill:#b9c7ff}.mark{color:#b9c7ff}
+      @media(prefers-color-scheme:light){.surface{fill:#f8faff;stroke:#dce3ef}.title{fill:#263d84}.copy{fill:#4f5d73}.tech{fill:#324da4}.mark{color:#324da4}}
+    </style>
+    <rect class="surface" x=".5" y=".5" width="459" height="145" rx="10"/>
+    <g class="mark" transform="translate(19 19)"><g fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="10" width="14" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3m-4 4v3"/></g></g>
+    <text class="title" x="52" y="38" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="24" font-weight="650">CryptoX</text>
+    <text class="copy" x="20" y="72" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="19">Мессенджер со сквозным шифрованием</text>
+    <text class="copy" x="20" y="96" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="19">на базе Signal Protocol.</text>
+    <text class="tech" x="20" y="126" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="17">E2EE · Signal Protocol</text></svg>
