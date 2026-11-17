@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/gTakeshi1703">Telegram</a>
-  &nbsp;·&nbsp;
   <a href="https://github.com/GANSGX/portfolio_site">Портфолио</a>
 </p>
 
