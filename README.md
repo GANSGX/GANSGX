@@ -28,4 +28,6 @@
 
 ## Активность
 
-[![График активности GitHub за последние 30 дней](https://github-readme-activity-graph.vercel.app/graph?username=GANSGX&bg_color=0d1424&color=e0e7ff&line=a5b4fc&point=f0f4ff&hide_border=true&hide_title=true&area=true&area_color=6679d7)](https://github.com/GANSGX?tab=overview#user-activity-overview)
+![График активности GitHub за последние 30 дней](https://github-readme-activity-graph.vercel.app/graph?username=GANSGX&bg_color=0d1424&color=e0e7ff&line=a5b4fc&point=f0f4ff&hide_border=true&hide_title=true&area=true&area_color=6679d7)
+
+[Календарь GitHub за 2026 год](https://github.com/GANSGX?tab=overview&from=2026-01-01&to=2026-12-31)
